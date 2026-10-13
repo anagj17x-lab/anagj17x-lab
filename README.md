@@ -11,9 +11,9 @@
 📞 Información de contacto
 
 * 📍 Ubicación: Medellín, Antioquia, Colombia
-* 📧 Correo electrónico: [Agrega tu correo profesional]
-* 📱 Teléfono: [Agrega tu número de contacto]
-* 💼 LinkedIn: [Agrega el enlace de tu perfil]
+* 📧 Correo electrónico: anagj17x@gmail.com
+* 📱 Teléfono: 3108426367
+* 💼 LinkedIn:www.linkedin.com/in/ana-sofia-gomez
 * 🐙 GitHub: https://github.com/
 
 
